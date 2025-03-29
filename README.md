@@ -17,4 +17,4 @@
 
 
 
-![snake gif](https://github.com/E/melskrm/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/E/melskrm/melskrm/blob/output/github-contribution-grid-snake.gif)
