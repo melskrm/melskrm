@@ -1,5 +1,5 @@
 ## Hi there 👋
- [![MasterHead](https://img.freepik.com/premium-vector/big-data-business-software-abstract-concept-vector-illustrations_107173-32502.jpg?w=1380)
+ ![MasterHead](https://img.freepik.com/premium-vector/big-data-business-software-abstract-concept-vector-illustrations_107173-32502.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Melisa Kerimoğlu</h1>
 <h3 align="center">I am a computer engineering student.</h3>
 
